@@ -20,7 +20,6 @@ public class User {
                 "  \"sex\":\"male\",\n" +
                 "  \"birth\":\"1991-11-11\"\n" +
                 "}";
-        String msg = "";
     }
 
 }
